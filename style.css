@@ -1,0 +1,46 @@
+.page{
+    margin: 90px;
+    padding: 50px;
+    background-color: rgb(9, 181, 200);
+} 
+div{
+    background-color: rgb(88, 109, 229);
+    color: azure;
+    margin: 40px;
+    padding: 40px;
+    
+}
+h2{
+    padding-left: 80px;
+    color: black;
+}
+.line{
+    text-decoration: line-through;
+    color: azure;
+    margin: 0px;
+    padding:0px;
+}
+.btn{
+    margin: 10px;
+    padding: 5px;
+    
+}
+.btn1{
+    background-color: rgb(232, 138, 138);
+
+}
+.btn2{
+    background-color: rgb(224, 236, 173);
+    
+}
+.btn3{
+    background-color: rgb(205, 176, 224);
+    
+}
+.input{
+    margin-left: 80px;
+    padding: 0px;
+}
+.add{
+    background-color: blue;
+}
